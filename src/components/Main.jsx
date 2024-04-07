@@ -16,11 +16,6 @@ const Main = () => {
         <p>
           If you Like this website You may Contact me .
         </p>
-        <a href='https://javatecci.github.io/raisingsoftwaresolution/'
-        >
-          If you Like this website You may Contact me .
-        </a>
-
         <a href='https://javatecci.github.io/client/'
         >
           If you Like this website You may Contact me .
