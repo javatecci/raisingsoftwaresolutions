@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/raisingsoftwaresolutions/static/css/main.763a45aa.css",
-    "main.js": "/raisingsoftwaresolutions/static/js/main.7e9e6d05.js",
+    "main.js": "/raisingsoftwaresolutions/static/js/main.7bcfcfeb.js",
     "static/js/453.59220b91.chunk.js": "/raisingsoftwaresolutions/static/js/453.59220b91.chunk.js",
     "static/media/videoBg.mp4": "/raisingsoftwaresolutions/static/media/videoBg.56441fcbb87daf6a532a.mp4",
     "index.html": "/raisingsoftwaresolutions/index.html",
     "main.763a45aa.css.map": "/raisingsoftwaresolutions/static/css/main.763a45aa.css.map",
-    "main.7e9e6d05.js.map": "/raisingsoftwaresolutions/static/js/main.7e9e6d05.js.map",
+    "main.7bcfcfeb.js.map": "/raisingsoftwaresolutions/static/js/main.7bcfcfeb.js.map",
     "453.59220b91.chunk.js.map": "/raisingsoftwaresolutions/static/js/453.59220b91.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.763a45aa.css",
-    "static/js/main.7e9e6d05.js"
+    "static/js/main.7bcfcfeb.js"
   ]
 }
