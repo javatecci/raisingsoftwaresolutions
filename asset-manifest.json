@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/raisingsoftwaresolutions/static/css/main.7e13770a.css",
-    "main.js": "/raisingsoftwaresolutions/static/js/main.b8f41f80.js",
+    "main.css": "/raisingsoftwaresolutions/static/css/main.30241853.css",
+    "main.js": "/raisingsoftwaresolutions/static/js/main.294b7b0f.js",
     "static/js/845.fc4b5624.chunk.js": "/raisingsoftwaresolutions/static/js/845.fc4b5624.chunk.js",
     "static/media/videoBg.mp4": "/raisingsoftwaresolutions/static/media/videoBg.56441fcbb87daf6a532a.mp4",
     "static/media/me.jpg": "/raisingsoftwaresolutions/static/media/me.477bd3ecf4e1942992f5.jpg",
     "index.html": "/raisingsoftwaresolutions/index.html",
-    "main.7e13770a.css.map": "/raisingsoftwaresolutions/static/css/main.7e13770a.css.map",
-    "main.b8f41f80.js.map": "/raisingsoftwaresolutions/static/js/main.b8f41f80.js.map",
+    "main.30241853.css.map": "/raisingsoftwaresolutions/static/css/main.30241853.css.map",
+    "main.294b7b0f.js.map": "/raisingsoftwaresolutions/static/js/main.294b7b0f.js.map",
     "845.fc4b5624.chunk.js.map": "/raisingsoftwaresolutions/static/js/845.fc4b5624.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e13770a.css",
-    "static/js/main.b8f41f80.js"
+    "static/css/main.30241853.css",
+    "static/js/main.294b7b0f.js"
   ]
 }
