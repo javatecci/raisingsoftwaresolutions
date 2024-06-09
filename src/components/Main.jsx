@@ -52,9 +52,11 @@ const Main = () => {
         </div>
 
         <div id="mypic2">
-
+        
 
 </div>
+
+<a href='https://pages.razorpay.com/pl_OKZIM9qQBVQfVY/view'>Pay</a>
 
         </div>
     </div>
