@@ -16,7 +16,7 @@ const Main = () => {
 
 
 
-        <div className="content">
+<div className="content">
 
 
         <div className="button">
@@ -34,7 +34,7 @@ const Main = () => {
 
 </div>
             
-            <p><h1>Welcome</h1>To this site. We would like to turn you idea into real .</p>
+            <p><h1>Welcome</h1>To this site. We would like to turn your ideas into real .</p>
             <p>
         </p>
 
@@ -45,6 +45,16 @@ const Main = () => {
         >
         here
         </a>
+
+        <div id="mypic">
+
+
+        </div>
+
+        <div id="mypic2">
+
+
+</div>
 
         </div>
     </div>
