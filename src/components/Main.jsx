@@ -53,9 +53,7 @@ const Main = () => {
 
 
         <div id="mypic2">
-        <a href='https://pages.razorpay.com/pl_OKZIM9qQBVQfVY/view'>Pay</a>
-
-
+        <a href='https://pages.razorpay.com/pl_OKZIM9qQBVQfVY/view'><h1 id="py">Pay now</h1></a>
         </div>
 
 
