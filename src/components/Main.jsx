@@ -13,34 +13,37 @@ const Main = () => {
 
 
         <video src={videoBg} autoPlay loop muted />
+
+
+
         <div className="content">
+
 
         <div className="button">
 
-<a href='https://javatecci.github.io/client/'>me</a>
-<a href='https://javatecci.github.io/client/'>me</a>
+<a className='link' href='https://javatecci.github.io/client/'>me</a>
+<a className='link' href='https://javatecci.github.io/client/'>me</a>
+<a className='link' href='https://javatecci.github.io/client/'>me</a>
+<a className='link' href='https://javatecci.github.io/client/'>me</a>
+<a className='link' href='https://javatecci.github.io/client/'>me</a>
+<a className='link' href='https://javatecci.github.io/client/'>me</a>
+<a className='link' href='https://javatecci.github.io/client/'>me</a>
+<a className='link' href='https://javatecci.github.io/client/'>me</a>
 
-<a href='https://javatecci.github.io/client/'>me</a>
-<a href='https://javatecci.github.io/client/'>me</a>
-<a href='https://javatecci.github.io/client/'>me</a>
-<a href='https://javatecci.github.io/client/'>me</a>
-<a href='https://javatecci.github.io/client/'>me</a>
-<a href='https://javatecci.github.io/client/'>me</a>
-<a href='https://javatecci.github.io/client/'>me</a>
 
 
 </div>
-
-            <h1>Welcome</h1>
-            <p>To my site. I am Jayanta</p>
-
+            
+            <p><h1>Welcome</h1>To my site. We would like to turn you idea into real</p>
+            <p>
+        </p>
 
         <p>
-          If you Like this website You may Contact me .
+          If you want to develop any website then You may Contact me .
         </p>
-        <a href='https://javatecci.github.io/client/'
+        <a className='clickMe' href='https://javatecci.github.io/client/'
         >
-        me
+        here
         </a>
 
         </div>
