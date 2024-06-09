@@ -39,7 +39,7 @@ const Main = () => {
         </p>
 
         <p>
-          If you want to develop any website then You may Contact me .
+          If you want to develop any website then You may Contact me Mobile or whatsApp : 8910425824 & javatecci@gmail.com .
         </p>
         <a className='clickMe' href='https://javatecci.github.io/client/'
         >
