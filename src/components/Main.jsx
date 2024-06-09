@@ -34,12 +34,12 @@ const Main = () => {
 
 </div>
             
-            <p><h1>Welcome</h1>To my site. We would like to turn you idea into real .</p>
+            <p><h1>Welcome</h1>To this site. We would like to turn you idea into real .</p>
             <p>
         </p>
 
         <p>
-          If you want to develop any website then You may Contact me Mobile or whatsApp : 8910425824 & javatecci@gmail.com .
+          If you want to develop any website then You may Contact through Mobile or whatsApp : 8910425824 & javatecci@gmail.com .
         </p>
         <a className='clickMe' href='https://javatecci.github.io/client/'
         >
