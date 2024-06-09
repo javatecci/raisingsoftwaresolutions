@@ -34,7 +34,7 @@ const Main = () => {
 
 </div>
             
-            <p><h1>Welcome</h1>To my site. We would like to turn you idea into real</p>
+            <p><h1>Welcome</h1>To my site. We would like to turn you idea into real .</p>
             <p>
         </p>
 
